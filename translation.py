@@ -10,7 +10,7 @@ class Translation(object):
 
 ɢɪᴠᴇ ᴍᴇ ᴀɴʏ ʟɪɴᴋ ɪ ᴡɪʟʟ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ғɪʟᴇ ᴏʀ ᴠɪᴅᴇᴏ ᴡɪᴛʜ ᴄᴜsᴛᴏᴍ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ
 
-ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/Itsme123i">Itsme123i</a></b>
+ᴛʜɪs ʙᴏᴛ ɪs ᴘᴏᴡᴇʀᴇᴅ ʙʏ <a href="https://t.me/the_tgguy">The Telegram Guy!!</a></b>
 """
 
     TECH_VJ_HELP_TEXT = """
@@ -63,7 +63,7 @@ class Translation(object):
             InlineKeyboardButton('❓ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('🦊 ᴀʙᴏᴜᴛ', callback_data='about')
         ], [
-            InlineKeyboardButton('🇮🇳 ғᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɪɴsᴛᴀɢʀᴀᴍ 💖', url='https://www.instagram.com/nectar._.14')
+            InlineKeyboardButton('🇮🇳 Bot list 💖', url='https://t.me/the_tgguy/25')
         ]]
     )
     TECH_VJ_HELP_BUTTONS = InlineKeyboardMarkup(
